@@ -1,10 +1,13 @@
-### Hi there 👋, I'm Nordiel
-#### Computer Science Student
-I'm a student at the Inter American University of Puerto Rico.
-Initially, I started my college education studying to become a Pharmacy Technician. However, after I graduated, I decided to explore the field of computer science, where I discovered a new passion for coding and web development.
+# Hey there! 👋, I'm Nordiel  
+### 🚀 Software Engineer | 💻 Tech Enthusiast  
 
-- 🔭 I’m currently working on [nordiel.com](http://nordiel.com)
-- 📫 How to reach me: nordielm@gmail.com
+I'm currently studying **Computer Science** at the **Inter American University of Puerto Rico** and working as a software engineer! My journey into tech started with a love for problem-solving and a knack for creativity, which I now channel into coding, web development, and learning new technologies.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nordiel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nordielmartinez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nxrdiel/?next=%2F/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/nxrdiel)  
+- 🌟 **Fun fact**: I gratuated from a Pharmacy degree, but coding was way too much fun.   
+- 🔭 **Currently working on**: Shhhhh...it's a secret 🤐 
+- 🌱 **Learning**: Exploring the depths of Angular and NgRx.  
+- 🎮 **Hobbies**: Gaming, trying out new tech, and occasionally binge-watching anime or any marvel series.  
+
+## 🌐 Let's Connect!  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nordiel)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nordielmartinez/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nxrdiel)  
 
