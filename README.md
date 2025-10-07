@@ -4,8 +4,8 @@
 I'm currently studying **Computer Science** at the **Inter American University of Puerto Rico** and working as a software engineer! My journey into tech started with a love for problem-solving and a knack for creativity, which I now channel into coding, web development, and learning new technologies.
 
 - 🌟 **Fun fact**: I gratuated from a Pharmacy degree, but coding was way too much fun.   
-- 🔭 **Currently working on**: Shhhhh...it's a secret 🤐 
-- 🌱 **Learning**: Exploring the depths of Angular and NgRx.  
+- 🔭 **Currently working on**: Getting my AWS Certification and my upcoming webapp Splitealo 😊
+- 🌱 **Learning**: AWS Cloud, Angular, NgRx and more. Gotta keep learning! 😁
 - 🎮 **Hobbies**: Gaming, trying out new tech, and occasionally binge-watching anime or any marvel series.
 
 ## 🚀 Most Used Languages  
