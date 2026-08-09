@@ -1,12 +1,11 @@
 # Hey there! 👋, I'm Nordiel  
-### 🚀 Software Engineer | 💻 Tech Enthusiast  
+### 🚀 Software Engineer | CV and AI Enthusiast  
 
-I'm currently studying **Computer Science** at the **Inter American University of Puerto Rico** and working as a software engineer! My journey into tech started with a love for problem-solving and a knack for creativity, which I now channel into coding, web development, and learning new technologies.
+I'm currently studying **Computer Science** at the **Inter American University of Puerto Rico** and working as a Software Engineer! My journey into tech started with a love for problem-solving and a knack for creativity, which I now channel into what I do everyday.
 
-- 🌟 **Fun fact**: I gratuated from a Pharmacy degree, but coding was way too much fun.   
-- 🔭 **Currently working on**: Getting my AWS Certification and my upcoming webapp Splitealo 😊
-- 🌱 **Learning**: AWS Cloud, Angular, NgRx and more. Gotta keep learning! 😁
-- 🎮 **Hobbies**: Gaming, trying out new tech, and occasionally binge-watching anime or any marvel series.
+- 🌟 **Fun fact**: I graduated from a Pharmacy degree, but found a passion for problem solving and programming.   
+- 🔭 **Currently working on**: Splitealo, my CV and OCR personal project. 😁
+- 🌱 **Learning**: OpenCV, HuggingFace, Tesseract and AWS (AWS Textract). 👀
 
 ## 🚀 Most Used Languages  
 
