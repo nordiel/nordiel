@@ -11,11 +11,8 @@
 
 ---
 
-I went from a **Pharmacy degree** to **Computer Science** at Inter American University of Puerto Rico, and I've been building software professionally ever since. I like problems that need both logic and creativity, especially getting computers to *see* and *read* the world.
+I went from a **Pharmacy degree** to **Computer Science** at the Inter American University of Puerto Rico, and I've been building software professionally ever since. I like problems that need both logic and creativity, especially getting computers to *see* and *read* the world.
 
-- 🔭 **Building:** [Splitealo](https://github.com/nordiel/splitealo-frontend), a computer vision + OCR project
-- 🌱 **Learning:** OpenCV, Hugging Face, Tesseract and AWS Textract
-- 💊 **Fun fact:** I have a Pharmacy degree
 
 ## 🛠️ Tech I work with
 
@@ -23,14 +20,6 @@ I went from a **Pharmacy degree** to **Computer Science** at Inter American Univ
   <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,vue,react,tailwind&perline=8" alt="Languages and frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,aws,opencv,git,vscode&perline=8" alt="Tools and infrastructure" />
 </p>
-
-## 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Splitealo**](https://github.com/nordiel/splitealo-frontend) · [backend](https://github.com/nordiel/splitealo-backend) | Computer vision + OCR project | TypeScript · JavaScript |
-| [**Techo-Bot**](https://github.com/nordiel/Techo-Bot) | Discord bot that serves the latest tech news via NewsAPI (`!News`) | Python |
-| [**dotfiles**](https://github.com/nordiel/dotfiles) | My whole macOS setup in one command | Shell |
 
 ## 📊 Stats
 
